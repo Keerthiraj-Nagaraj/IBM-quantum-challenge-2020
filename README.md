@@ -1,7 +1,7 @@
 # IBM-quantum-challenge-2020
  My solutions to 5 exercises of IBM quantum challenge 2020. Topics include quantum full-adder circuit implementation, circuit optimization and solving various puzzles using Grover's search algorithm.
 
- More details about problem statement of all the challenge can be found using the below link:
+ More details about problem statement of all the challenges can be found using the below link:
 
 https://github.com/qiskit-community/IBMQuantumChallenge2020
 
