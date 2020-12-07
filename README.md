@@ -1,6 +1,9 @@
 # IBM-quantum-challenge-2020
  My solutions to 5 exercises of IBM quantum challenge 2020
 
+More details about the challenge:
+
+https://github.com/qiskit-community/IBMQuantumChallenge2020
 
 ## Challenge Index
 The challenge content can be accessed through following links and a video explaining challenge is also linked below.
